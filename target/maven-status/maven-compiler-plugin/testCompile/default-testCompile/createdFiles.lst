@@ -1,0 +1,4 @@
+com\railsware\mailtrap\mail\AddressTest.class
+com\railsware\mailtrap\client\MailTrapClientTest.class
+com\railsware\mailtrap\mail\AttachmentTest.class
+com\railsware\mailtrap\mail\MailTest.class
