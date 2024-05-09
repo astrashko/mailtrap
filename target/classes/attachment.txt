@@ -1,4 +1,0 @@
-Mailtrap API is based on the REST principles.
-The following documentation covers core resources that are used to manipulate the main entities.
-To start using the Mailtrap API, only a Mailtrap account is required.
-You have to be authenticated and call the simple HTTPS request on the URL specified below.
